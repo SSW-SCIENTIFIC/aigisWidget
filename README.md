@@ -22,8 +22,8 @@ DMM.comの18禁タワーディフェンスゲームである「千年戦争ア�
 
 # どうすればいいの？
 
-Chrome ウェブストアから今すぐインストール！！    
-https://chrome.google.com/webstore/detail/djffjjhdjidlgdpijdheaongflkfefep
+Chrome ウェブストアから今すぐインストール！！
+https://chrome.google.com/webstore/detail/eaojcljcoainmdhbhkdhbccnlghgjklk ([オリジナル版](https://chrome.google.com/webstore/detail/djffjjhdjidlgdpijdheaongflkfefep))
 
 # 規約違反じゃないの？
 
