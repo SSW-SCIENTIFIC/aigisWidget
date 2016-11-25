@@ -26,7 +26,7 @@ $(function() {
     $('body').animate({
       'top'     : '-60px',
       //'left'    : '-5px'
-      'left'    : '-30px'
+      'left'    : '-44px'
     },500);
   },500);
 
