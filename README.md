@@ -1,10 +1,14 @@
 千年戦争アイギスウィジェット(aigisWidget)
 ===========
 
+[むひろ][1]さんのアイギスウィジェットのフォークです。
+
+
 # これはなに？？
 
 DMM.comの18禁タワーディフェンスゲームである「千年戦争アイギス」の聖女イリスちゃんを快適に~~弄ぶ~~遊ぶ為のChrome拡張機能です。    
 イリスちゃん以外でも遊べます。
+
 
 # なにができるの？
 
@@ -30,20 +34,25 @@ Chromeが千年戦争アイギスのサーバーと通信するデータを分�
 # そのた
 
 ## 問い合わせやバグ報告
-- [issues](https://github.com/muhiro/aigisWidget/issues)
+- ~~[issues](https://github.com/muhiro/aigisWidget/issues)~~
+- [issues](https://github.com/SSW-SCIENTIFIC/aigisWidget/issues)
 
 ## 仕組みに関する情報
 - [wiki](https://github.com/muhiro/aigisWidget/wiki)
 
 ## ソース    
 ソースはすべてGitHubにて管理し公開しています。
-- [aigisWidget GitHub](https://github.com/muhiro/aigisWidget/)
+- [むひろ][1]さんのオリジナル: [aigisWidget GitHub](https://github.com/muhiro/aigisWidget/)
+- フォークしたカスタム版: [aigisWidget GitHub](https://github.com/SSW-SCIENTIFIC/aigisWidget)
 
 # すぺしゃるさんくす
 
 千年戦争アイギスウィジェットを作成するに当たり、参考にさせてもらった「[艦これウィジェット](https://github.com/otiai10/kanColleWidget)」のotiai10さんに感謝っ！！
 
 # リリース履歴
+## 2016/11/25 ver0.1.6.1
+- 2016/11/24アップデートのデザイン変更に対する位置調整(画面左14pxの空白)
+
 ## 2015/06/13 ver0.1.6
 - ホスト先のURL：cloudfront.net→millennium-war.net変更に伴う修正
 - ウィジェットを閉じる際、確認のアラートを表示するように修正（デフォルトはオフ、設定変更可）
@@ -82,3 +91,6 @@ Chromeが千年戦争アイギスのサーバーと通信するデータを分�
 
 ## 2014/07/24 ver0.0.1
 - 公開
+
+
+[1]://twitter.com/muhiro
